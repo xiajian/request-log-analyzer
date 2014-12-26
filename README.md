@@ -30,11 +30,9 @@ request-log-analyzer可以当作Ruby gem包来安装(可能需要使用root权�
 
 Request-log-analyzer由Willem van Bergen和Bart ten Brinke设计并实现。
 
-Do you have a rails application that is not performing as it should? If you need
-an expert to analyze your application, feel free to contact either Willem van
-Bergen (willem@railsdoctors.com) or Bart ten Brinke (bart@railsdoctors.com).
+如果，你的Rails应用程序性能表现不如人意。你可能需要一个专家来分析你的应用，别怕，有大神Willem van
+Bergen (willem@railsdoctors.com)和Bart ten Brinke (bart@railsdoctors.com)。
 
-* Project wiki at GitHub: http://github.com/wvanbergen/request-log-analyzer/wiki
-* Issue tracker at GitHub: http://github.com/wvanbergen/request-log-analyzer/issues
-* The Railsdoctors homepage: http://railsdoctors.com
-* This software is MIT licensed. Check out CONTRIBUTING.rdoc if you want to help out on this project.
+* 项目wiki : http://github.com/wvanbergen/request-log-analyzer/wiki
+* 议题追踪: http://github.com/wvanbergen/request-log-analyzer/issues
+* 软件使用MIT协议，如果想要贡献项目，请查阅CONTRIBUTING.rdoc
